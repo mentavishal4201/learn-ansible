@@ -1,0 +1,23 @@
+- name: PLAY-1
+  hosts: local
+  connections: local
+  tasks:
+    - name: PLAY-1 and task-1
+      debug:
+        msg: "Hello from play-1 task-1"
+
+    - name: PLAY-1 and task-2
+      debug:
+        msg: "Hello from play-1 task-2"
+
+- name: PLAY-2
+  hosts: local
+  connections: local
+  tasks:
+    - name: PLAY-2 and task-1
+      debug:
+        msg: "Hello from play-2 task-1"
+
+    - name: PLAY-2 and task-2
+      debug:
+        msg: "Hello from play-2 task-2"
