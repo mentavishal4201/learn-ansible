@@ -2,5 +2,5 @@
   hosts: local
   connection: local
   tasks:
-  - name: print Hello world
-    anisble.buildin.debug:
+    - name: print Hello world
+      anisble.buildin.debug:
