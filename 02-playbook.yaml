@@ -4,3 +4,4 @@
   tasks:
     - name: print Hello world
       anisble.buildin.debug:
+        msg: "Hello Ansible !"
