@@ -1,0 +1,7 @@
+- name: print greeting
+  hosts: local
+  connection: local
+  tasks:
+    - name: print greeitng
+      debug:
+        msg: hello {{person_name}}
