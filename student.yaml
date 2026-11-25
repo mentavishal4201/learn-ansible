@@ -1,0 +1,35 @@
+- first_name: "Venkata Narahari Vishal"
+  last_name: "Menta"
+  dob: 01-01-01
+  # - is considered as list
+  address:
+    - type: permanent
+      doorNo: 1-566
+      streetName: Gandi Nagar
+      city: Hyderabad
+    - type: temporary
+      doorNo: 1-566
+      streetName: Gandi Nagar
+      city: Hyderabad
+    skills:
+      OS: linux
+      IDE: vscode
+      CM: Ansible
+
+- first_name: "Venkata Narahari Vishal"
+  last_name: "Menta"
+  dob: 01-01-01
+  # - is considered as list
+  address:
+    - type: permanent
+      doorNo: 1-566
+      streetName: Gandi Nagar
+      city: Hyderabad
+    - type: temporary
+      doorNo: 1-566
+      streetName: Gandi Nagar
+      city: Hyderabad
+    skills:
+      OS: linux
+      IDE: vscode
+      CM: Ansible

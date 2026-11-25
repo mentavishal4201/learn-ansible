@@ -1,0 +1,24 @@
+{
+  "firstName": "Venkata Narahari Vishal",
+  "lastName": "Menta",
+  "dob": "01-01-01",
+  "address": [
+    {
+      "type": "permanent",
+      "doorNo": "1-566",
+      "streetName": "gandi nagar",
+      "city": "Hyderabad"
+    },
+    {
+      "type": "Temporary",
+      "doorNo": "1-566",
+      "streetName": "gandi nagar",
+      "city": "Hyderabad"
+    }
+  ],
+  "skills": {
+    "OS": "linux",
+    "IDE": "vs code",
+    "CM": "Ansible"
+  }
+}

@@ -1,0 +1,18 @@
+#student is an object
+<Student> 
+    <firstname>Venkata Narahari Vishal</firstname>
+    <lastname>M</lastname>
+    <dob>07-05-2000</dob>
+    <addresses>
+        <address type="temporary">
+            <doorNo>1-23</doorNo>
+            <streeName>Hitect city</streeName>
+            <city>Hyderabad</city>
+        </address>
+        <address type="permanent">
+            <doorNo>1-23</doorNo>
+            <streeName>Hitect city</streeName>
+            <city>Hyderabad</city>
+        </address>
+    </addresses>
+</Student>
